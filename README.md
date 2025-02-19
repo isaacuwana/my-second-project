@@ -34,7 +34,7 @@ To integrate version control into the project, I followed standard Git and GitHu
 To access this project, run the following command in your terminal:  
 
 ```bash
-git clone https://github.com/yourusername/your-second-project.git
+git clone https://github.com/isaacuwana/my-second-project.git
 ```  
 
 ---
