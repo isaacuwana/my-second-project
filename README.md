@@ -16,7 +16,7 @@ This phase focused on applying fundamental data cleaning techniques to improve t
 ✅ **Applied conditional formatting** – Highlighted key values for improved data visualization.  
 ✅ **Used text functions** – Leveraged `LEFT`, `RIGHT`, `MID`, and `CONCATENATE` to refine text data.  
 ✅ **Removed duplicates and handled missing values** – Ensured data accuracy and completeness.  
-✅ **Saved the final cleaned dataset** – Exported the refined file as **"Cleaned_Data_YourName.xlsx"**.  
+✅ **Saved the final cleaned dataset** – Exported the refined file as **"Cleaned_Data_Isaac_Adeyeye.xlsx"**.  
 
 ---
 
